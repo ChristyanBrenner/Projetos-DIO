@@ -1,2 +1,2 @@
 # Projetos-DIO
-Este reposistorio contem os porjetos desenvolvidos nos Bootcamps da DIO
+Este reposistorio contem os projetos desenvolvidos nos Bootcamps da DIO
